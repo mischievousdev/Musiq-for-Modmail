@@ -1,27 +1,20 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "hello-express",
-  "version": "0.0.1",
-  "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "server.js",
+  "name": "musiq-for-modmail",
+  "version": "1.0.0",
+  "description": "A Simple Music Plugin for Kyb3r/ModMail",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "engines": {
-    "node": "12.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
-  },
+  "keywords": [],
+  "author": "davidm5375",
   "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidm5375/Musiq-for-Modmail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidm5375/Musiq-for-Modmail/issues"
+  },
+  "homepage": "https://github.com/davidm5375/Musiq-for-Modmail#readme"
 }
