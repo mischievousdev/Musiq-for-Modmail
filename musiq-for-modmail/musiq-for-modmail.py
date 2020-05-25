@@ -5,6 +5,7 @@
 import functools
 import itertools
 import math
+import asyncio
 import random
 import discord
 import youtube_dl
