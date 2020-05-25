@@ -1,4 +1,4 @@
 discord.py 
 pynacl 
 youtube-dl
-aiohttp==3.6.0
+aiohttp==3.5.9
