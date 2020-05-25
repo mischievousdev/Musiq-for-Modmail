@@ -2,4 +2,4 @@ discord.py==1.2.5
 PyNaCl
 youtube-dl
 aiohttp==3.5.4
-
+discord.py[voice]==1.2.5
